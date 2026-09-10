@@ -1,7 +1,6 @@
 # RSA-Based-Digital-Signature-and-Encryption-System
 Designed and implemented an RSA cryptographic module in Verilog using modular exponentiation for encryption and digital signature operations.
 
-# RSA-Based Digital Signature and Encryption System
 
 A Verilog HDL implementation of the RSA cryptosystem, built to demonstrate the core mathematics of public-key encryption and decryption — key generation, modular exponentiation, and modular inverse computation — entirely in synthesizable/simulatable hardware description language.
 
